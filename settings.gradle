@@ -1,0 +1,1 @@
+include ':app', ':listSamples', ':viewpagerIndicator_library'

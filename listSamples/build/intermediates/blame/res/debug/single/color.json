@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidSimple\\Sunwei\\listSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\androidSimple\\Sunwei\\listSamples\\build\\intermediates\\exploded-aar\\Sunwei\\viewpagerIndicator_library\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\androidSimple\\Sunwei\\listSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\androidSimple\\Sunwei\\listSamples\\build\\intermediates\\exploded-aar\\Sunwei\\viewpagerIndicator_library\\unspecified\\res\\color\\vpi__light_theme.xml"
+    }
+]

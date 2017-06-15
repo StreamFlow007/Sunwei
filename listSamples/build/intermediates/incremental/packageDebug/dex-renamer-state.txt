@@ -1,0 +1,7 @@
+#Thu Jun 15 16:00:47 CST 2017
+base.0=E\:\\androidSimple\\Sunwei\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_03110dd05cacdde8fdda1360f37c95ab7f277423
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\androidSimple\\Sunwei\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6e69c7095f2b041ccd1bf4ff779eee18a761d07e\\classes.dex
+base.1=E\:\\androidSimple\\Sunwei\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6e69c7095f2b041ccd1bf4ff779eee18a761d07e
+file.0=E\:\\androidSimple\\Sunwei\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_03110dd05cacdde8fdda1360f37c95ab7f277423\\classes.dex
